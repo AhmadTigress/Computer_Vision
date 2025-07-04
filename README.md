@@ -34,7 +34,7 @@ The course is divided into six core modules, each focusing on a specific concept
 
 ---
 
-## 💻 Environment & Execution
+## Environment & Execution
 
 - All code was developed and executed on **Google Colab**, allowing fast prototyping with GPU acceleration.
 - Each lesson has a separate notebook and Python script version for reproducibility and modular design.
