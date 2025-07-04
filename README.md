@@ -1,10 +1,10 @@
-# 🧠 Computer Vision with Deep Learning (Kaggle Course Project)
+# Computer Vision with Deep Learning (Kaggle Course Project)
 
 Welcome to my project repository for the **Computer Vision** course completed on [Kaggle Learn](https://www.kaggle.com/learn/computer-vision). This course provided a hands-on introduction to the core components of convolutional neural networks (CNNs), including convolution, pooling, classification, and object detection using sliding windows.
 
 ---
 
-## 📚 Course Breakdown
+## Course Breakdown
 
 The course is divided into six core modules, each focusing on a specific concept essential to computer vision and CNNs:
 
@@ -41,7 +41,7 @@ The course is divided into six core modules, each focusing on a specific concept
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```bash
 computer_vision/
